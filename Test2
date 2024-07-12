@@ -1,1 +1,1 @@
-New test2 file
+echo "Hello Test2.txt" >> hello.txt
